@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: "Raleway", sans-serif;
+  min-height: 800px;
+}
+.omtext {
+  text-align: center;
+}
+.xd {
+  opacity: 0;
+}
+.hemsida {
+  text-decoration: none;
+  color: black;
+}
+nav {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+
+.hemsida:hover {
+  color: black;
+}
+
+body {
+  background-color: lightgray;
+  width: 100%;
+}
+
+.container {
+  background: #fff;
+}
+
+.artikel-img {
+  width: 100%;
+}
+
+.row {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.artikellänk {
+  font-size: 115%;
+}
+
+.four.columns {
+  border-bottom: 2px solid black;
+}
+
+.eight.columns {
+  border-bottom: 2px solid black;
+  margin-bottom: 5%;
+}
+
+/* main {
+    min-height: 600px;
+} */
+
+section {
+  border-top: 2px solid gray;
+}
+
+article {
+  padding: 10px;
+}
+
+nav {
+  padding: 10px;
+  padding-bottom: 3%;
+}
+
+header {
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+
+  border-bottom: 2px solid black;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 75%;
+}
